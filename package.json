@@ -23,7 +23,7 @@
 	},
 	"eslintConfig": {
 		"extends": [
-			"wesbo
+			"wesbos"
 		],
 		"rules": {
 			"import/no-extraneous-dependencies": [
