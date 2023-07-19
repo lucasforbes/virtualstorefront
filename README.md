@@ -1,7 +1,7 @@
 
 # Virtual Store Front
 
-## Live Preview : [https://artistic-photography-react.netlify.app/](https://lucasforbes.github.io/virtualstorefront/](https://lucasforbes.github.io/virtualstorefront/)
+## Live Preview : https://lucasforbes.github.io/virtualstorefront/
 
 1. npm install
 2. npm run (for Local-Dev)
