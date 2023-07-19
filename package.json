@@ -1,7 +1,7 @@
 {
 	"name": "artistic",
 	"version": "0.1.0",
-	"homepage": "https://lucasforbes.github.io/virtualstorefront.git",
+	"homepage": "https://lucasforbes.github.io/virtualstorefront",
 	"private": true,
 	"dependencies": {
 		"@fontsource/poppins": "^4.5.0",
