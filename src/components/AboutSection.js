@@ -43,14 +43,14 @@ function AboutSection() {
       <div className="container">
         <div className="about__wrapper">
           <div className="about__img">
-            <img src={AboutImg} alt="Artistic" />
+            <img src={AboutImg} alt="Augmented Advertising" />
           </div>
           <div className="about__info">
             <ParagraphText className="about__subtitle">
               Who are we
             </ParagraphText>
             <SectionTitle className="about__title">
-              Capturing life as it happens
+              Advertising In a New Dimension
             </SectionTitle>
             <ParagraphText className="about__desc">
               “Artistic” is a studio of some passionate photographer. Our Goal
